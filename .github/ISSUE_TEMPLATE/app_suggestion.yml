@@ -1,0 +1,55 @@
+name: Suggest an App
+description: Recommend a new iOS app to be added to the directory.
+title: "[App Suggestion]: <App Name>"
+labels: ["enhancement", "app suggestion"]
+body:
+  - type: input
+    id: app_name
+    attributes:
+      label: App Name
+      description: What is the exact name of the app?
+      placeholder: e.g., Snapseed
+    validations:
+      required: true
+  - type: input
+    id: app_link
+    attributes:
+      label: App Store Link
+      description: Please provide the official Apple App Store link.
+      placeholder: https://apps.apple.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which category does this app fit into?
+      options:
+        - Entertainment (Movies, TV)
+        - Music & Audio
+        - Productivity
+        - Photo & Video
+        - Utilities & Tools
+        - Privacy & Security
+        - Other (Specify in description)
+    validations:
+      required: true
+  - type: dropdown
+    id: pricing
+    attributes:
+      label: Pricing Model
+      description: Is it completely free, ad-supported, or freemium?
+      options:
+        - Completely Free
+        - Free with Ads
+        - Freemium (In-App Purchases)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why should we add this app?
+      description: Provide a brief description of the app and what makes it awesome or a great alternative to a premium service.
+      placeholder: It's a great free alternative to...
+    validations:
+      required: true
