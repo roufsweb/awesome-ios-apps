@@ -26,11 +26,13 @@ A curated, community-driven directory of the **best free and freemium iOS apps**
 
 Free streaming alternatives that offer great catalogs, background play, and Picture-in-Picture (PIP).
 
-- [Plex](https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673) - An all-in-one media solution offering free ad-supported movies, live TV, and personal media server hosting. *(Free / Premium Pass)*
-- [Pluto TV](https://apps.apple.com/us/app/pluto-tv-live-tv-and-movies/id751717884) - Experience "cable TV" for free with hundreds of live channels covering news, sports, and entertainment. *(Free with Ads)*
-- [Tube PIP – PIP for YouTube](https://apps.apple.com/us/app/tube-pip-pip-for-youtube/id6476895094) - YouTube alternative featuring Background Playback, PIP mode, and a YouTube-like UI without Shorts. *(Free)*
-- [TubeMax – Video and Music Player](https://apps.apple.com/us/app/tubemax-video-and-music-player/id1634335563) - Advanced video player with Background Play, multi-track audio support, and ad-free viewing when paired with custom DNS. *(Free)*
-- [Tubi](https://apps.apple.com/us/app/tubi-movies-live-tv/id886412752) - A massive legal on-demand library featuring over 50,000 movies and TV show episodes. *(Free with Ads)*
+| Icon | App Name | Description | Pricing |
+| :---: | :--- | :--- | :---: |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/52/b7/0852b7cd-a944-e140-0656-177887933703/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Plex**](https://apps.apple.com/us/app/plex-movies-tv-music-more/id383457673) | All-in-one media solution offering free ad-supported movies, live TV, and personal media server hosting. | Free / Premium |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/36/1e/c1361e67-5ca8-470b-f3e2-ffaab5f9fe47/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Pluto TV**](https://apps.apple.com/us/app/pluto-tv-live-tv-and-movies/id751717884) | Experience "cable TV" for free with hundreds of live channels covering news, sports, and entertainment. | Free with Ads |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/4f/26/574f268a-2a81-7ef3-84e6-86742d5d1b89/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Tube PIP**](https://apps.apple.com/us/app/tube-pip-pip-for-youtube/id6476895094) | YouTube alternative featuring Background Playback, PIP mode, and a YouTube-like UI without Shorts. | Free |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ec/8a/75ec8ae6-6b19-a726-cf0c-73af6b36d578/AppIcon.Bolt.TV.Light-0-0-1x_U007epad-0-1-0-P3-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**TubeMax**](https://apps.apple.com/us/app/tubemax-video-and-music-player/id1634335563) | Advanced video player with Background Play, multi-track audio support, and ad-free viewing via custom DNS. | Free |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/e3/bd/ffe3bd31-cf0f-1ada-6cbb-015eed3a8de9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Tubi**](https://apps.apple.com/us/app/tubi-movies-live-tv/id886412752) | A massive legal on-demand library featuring over 50,000 movies and TV show episodes. | Free with Ads |
 
 ---
 
@@ -38,8 +40,10 @@ Free streaming alternatives that offer great catalogs, background play, and Pict
 
 High-quality music streaming and offline players.
 
-- [Demus: Easy Music Streaming](https://apps.apple.com/us/app/demus-easy-music-streaming/id6474668383) - A beautiful, minimalist music player that lets you stream music, build playlists, and enjoy background playback. *(Free / Freemium)*
-- [Music X – Music Offline Player](https://apps.apple.com/us/app/music-x-music-offline-player/id6752231606) - YouTube Music alternative that allows you to sign in to your account, sync playlists, and download songs for offline listening. *(Free)*
+| Icon | App Name | Description | Pricing |
+| :---: | :--- | :--- | :---: |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/25/02/d22502d2-e39e-ae0b-2305-b6280332dcf4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Demus**](https://apps.apple.com/us/app/demus-easy-music-streaming/id6474668383) | A beautiful, minimalist music player that lets you stream music, build playlists, and enjoy background playback. | Free / Freemium |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/3a/0b/b73a0b36-6ee6-1cce-5864-690382efef96/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Music X**](https://apps.apple.com/us/app/music-x-music-offline-player/id6752231606) | YouTube Music alternative that allows you to sign in to your account, sync playlists, and download songs. | Free |
 
 ---
 
@@ -47,8 +51,10 @@ High-quality music streaming and offline players.
 
 Powerful creation tools without the massive subscription fees.
 
-- [Snapseed](https://apps.apple.com/us/app/snapseed/id439438619) - A complete and professional photo editor developed by Google, offering advanced editing tools without any subscriptions. *(Completely Free)*
-- [VLLO](https://apps.apple.com/us/app/vllo-intuitive-video-editor/id1300808502) - An incredibly powerful and intuitive video editor that allows basic exporting without watermarks. Great alternative to Premiere Rush. *(Freemium)*
+| Icon | App Name | Description | Pricing |
+| :---: | :--- | :--- | :---: |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/ca/40/08ca407a-8782-0b7a-efdb-1b0b8580fb53/ProdAppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**Snapseed**](https://apps.apple.com/us/app/snapseed/id439438619) | Complete professional photo editor developed by Google, offering advanced editing tools. | Completely Free |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/67/7e/9c677e2d-e696-0b97-0e02-9cf69ba1fb17/Default-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**VLLO**](https://apps.apple.com/us/app/vllo-intuitive-video-editor/id1300808502) | Intuitive video editor that allows basic exporting without watermarks. Great alternative to Premiere Rush. | Freemium |
 
 ---
 
@@ -56,7 +62,9 @@ Powerful creation tools without the massive subscription fees.
 
 Tools to keep your device secure and enhance your experience.
 
-- [DNSecure – DNS Manager](https://apps.apple.com/us/app/dnsecure/id1533413232) - A lightweight, privacy-friendly app for fast and easy DNS switching (e.g., to AdGuard DNS). *(Free)*
+| Icon | App Name | Description | Pricing |
+| :---: | :--- | :--- | :---: |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/bc/2a/56bc2a08-f5c7-b826-f20d-3f93e61645c0/AppIcon-0-1x_U007epad-0-1-85-220-0.png/100x100bb.jpg" width="50" style="border-radius:10px;"> | [**DNSecure**](https://apps.apple.com/us/app/dnsecure/id1533413232) | Lightweight, privacy-friendly app for fast and easy DNS switching (e.g., to AdGuard DNS). | Free |
 
 ---
 
